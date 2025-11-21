@@ -95,7 +95,7 @@ mvn spring-boot:run
 
 Server runs at:
 ```
-http://localhost:9999
+http://localhost:5173
 ```
 
 ---
